@@ -149,23 +149,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {},
-    "D:\\VisualStudio\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\GABRIEL\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gabriel\\LangFiles\\C#\\PerlinNoise\\PerlinNoise.csproj",
+      "projectUniqueName": "C:\\Users\\GABRIEL\\Desktop\\LangFiles\\C#\\NoiseGeneration\\PerlinNoise.csproj",
       "projectName": "PerlinNoise",
-      "projectPath": "D:\\Gabriel\\LangFiles\\C#\\PerlinNoise\\PerlinNoise.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\Gabriel\\LangFiles\\C#\\PerlinNoise\\obj\\",
+      "projectPath": "C:\\Users\\GABRIEL\\Desktop\\LangFiles\\C#\\NoiseGeneration\\PerlinNoise.csproj",
+      "packagesPath": "C:\\Users\\GABRIEL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GABRIEL\\Desktop\\LangFiles\\C#\\NoiseGeneration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VisualStudio\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GABRIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -212,7 +212,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

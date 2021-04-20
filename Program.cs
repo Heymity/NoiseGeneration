@@ -7,16 +7,17 @@ namespace PerlinNoise
     {
         private const int Width = 512;
         private const int Height = 512;
+        private const string SavePath = @"C:\Users\GABRIEL\Desktop\LangFiles\C#\NoiseGeneration\Test";
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
-            PerlinNoise noise = new("Random Seed".GetHashCode(), Width, Height);
+            PerlinNoise noise = new("Random Seed".GetHashCode(), Width, Height, 50, 50);
             
             Bitmap image = noise.OutputNoiseToBitmap(); 
             
-            image.Save(@"D:\Gabriel\LangFiles\C#\PerlinNoise\Test\Noise.png");
+            image.Save(@$"{SavePath}\Noise.png");
         }
     }
 }
